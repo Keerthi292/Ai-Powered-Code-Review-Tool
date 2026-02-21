@@ -1,0 +1,9 @@
+# Ignore environment files and secrets
+.env
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Optional: ignore other unnecessary files
+*.jar

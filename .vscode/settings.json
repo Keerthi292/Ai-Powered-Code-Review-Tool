@@ -1,0 +1,4 @@
+{
+  "checkstyle.checkstyleJar": "E:/MCA PROJECT/AI-Code-Review-Tool/tools/checkstyle-10.12.7-all.jar",
+  "checkstyle.configurationFile": "E:/MCA PROJECT/AI-Code-Review-Tool/tools/google_checks.xml"
+}
